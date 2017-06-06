@@ -1,0 +1,32 @@
+Starting training using file /data1/xubaochuan/nlp/relevance/temp/temp_1490542049_65.input
+
+Vocab size (unigrams + bigrams): 829
+Words in train file: 1361
+Starting training using file /data1/xubaochuan/nlp/relevance/temp/temp_1490542050_36.input
+
+Vocab size (unigrams + bigrams): 6
+Words in train file: 6
+11–14
+1–3
+related to  interfacial energy :
+ Several techniques have been reported in the litera-ture for the measurements of the solid–liquid interfa-cial energy  0.318772665866
+ In addition , the maximumundercooling is often not achieved due to the pres-ence of catalytic sites in the system [ 6 ]  0.316676776887
+ Another com-mon technique is the grain boundary groove method , which utilizes the equilibrium conditions at the triple-line between two solid grains and a liquid [ 7 , 8 ]  0.322546440091
+Although this technique has given significant resultsfor average values of the interfacial energy , it has notyet been used for the measurement of anisotropy  0.401937924526
+ The orientation-dependent interfacial energy canalso be measured directly by characterizing the equi-librium shape of solid particles in a liquid or liquiddroplets in a solid  0.379659890569
+ In the work described here , theanisotropy of crystal-melt interfacial energy for anAl–4 0.506563975344
+ where m indicates the degree of rotational crystalsymmetry about the section plane normal  0.31340813571
+18 which is closeto the value of the equilibrium solute partition coef-ficient at 595°C for the Al–Cu system  0.343844076581
+ The shape of the as-quenched droplet may deviate from the true equilib-rium shape because interface motion of severalmicrometers may occur during the quench [ 20 , 21 ]  0.348867882448
+The transition at the interface is characterized by lineDE by fitting the related data  0.354832251322
+ The interface location , C , is then indicated by the intersection between thelines AB and DE  0.339831009881
+ The effect of quenching was eliminatedfrom droplet shape measurements by using compo-sition profiles near the droplet interface to determinethe pre-quench interface location  0.383598242726
+ Using these pro-cedures for 2-D equilibrium shape measurements onselected { 0 0 1 } sections , the magnitude of anisotropyfor the solid–liquid interfacial energy was determinedto be 0 0.355437866057
+related to  anisotropy :
+ However they did not quantitatively evaluatethe magnitude of the anisotropy parameter  0.307263270215
+related to  equilibrium:
+0 wt % Cu alloy is determinedthrough measurement of equilibrium shape  0.363463561763
+ Another com-mon technique is the grain boundary groove method , which utilizes the equilibrium conditions at the triple-line between two solid grains and a liquid [ 7 , 8 ]  0.32590024557
+ Consequently , equilibrium shapes are moreeffectively measured using a fine dispersion of liquiddroplets that are entrained in the solid  0.310571743168
+ With the objective of preparing an equilibrium lowvolume-fraction dispersion of liquid droplets in a sin- To verify that equilibrium conditions were achi-eved in the droplets examined , a composition profilewas measured using SEM/EDS along a line across thedroplet and into the solid  0.323162953294
+18 which is closeto the value of the equilibrium solute partition coef-ficient at 595°C for the Al–Cu system  0.374455710589
